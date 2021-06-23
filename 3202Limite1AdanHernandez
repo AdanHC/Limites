@@ -1,0 +1,7 @@
+clear
+x=[-5:0.1:5];
+y=((10-(x)));
+plot (x,y);
+title("Funcion f(x)=10-x");
+xlabel("X");
+ylabel("Y");
